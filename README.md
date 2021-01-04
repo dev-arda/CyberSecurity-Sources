@@ -94,4 +94,5 @@ https://www.youtube.com/watch?v=DQ93TxqKkWo&t=211s
 https://www.youtube.com/watch?v=lIkQowZq9cg
 
 * Udemy Eğitimleri:
-
+https://www.udemy.com/course/web-pentesting/
+https://www.udemy.com/course/advanced-uygulamali-ethical-hacker-ve-siber-guvenlik-egitimi/
