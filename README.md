@@ -25,3 +25,30 @@ https://www.hepsiburada.com/uygulamali-siber-guvenlik-ve-hacking-p-HBV00000C46AO
 https://www.hepsiburada.com/abakus-kitap-siber-guvenlik-seti-p-HBV000017DXBH
 https://www.hepsiburada.com/siber-guvenlik-saldiri-ve-savunma-stratejileri-p-HBV00000O3BBS
 https://www.hepsiburada.com/siber-guvenlik-ve-egitim-seti-3-kitap-erhan-saygili-p-HBV00000AWSUJ
+
+</details>
+
+<details>
+
+<b><summary> Web Uygulama Güvenliği </summary>
+
+* Efsane Web Uygulama Güvenliği Eğitimi: https://www.prismacsi.com/9-web-uygulama-guvenligi/
+* TryHackMe Kaynakları: 
+Öğrenip Cevaplamak İçin;
+https://tryhackme.com/room/owasptop10 
+https://tryhackme.com/room/rpburpsuite 
+https://tryhackme.com/room/learnowaspzap 
+https://tryhackme.com/room/webfundamentals 
+https://tryhackme.com/room/webappsec101 <
+Öğrendiklerini Yapmak İçin;
+https://tryhackme.com/room/vulnversity
+https://tryhackme.com/room/juiceshop
+https://tryhackme.com/room/rpwebscanning
+https://tryhackme.com/room/dvwa
+https://tryhackme.com/room/jack
+* Web Uygulama Güvenliğine Hakim Olanlar İçin Web Ctf'li bir Site: 
+https://www.hackthebox.eu/
+* Web Uygulama Güvenliği hakkında eğitici bir PDF:
+https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf
+
+</details>
