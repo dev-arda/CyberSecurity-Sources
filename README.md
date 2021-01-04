@@ -52,3 +52,18 @@ https://www.hackthebox.eu/
 https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf
 
 </details>
+
+<details>
+
+<b><summary> Pentration Test </summary>  
+  
+* Pentest Yapmak İçin Bilinmesi Gerekenler Hakkında 12 Bölümlük Eğitim: https://www.prismacsi.com/1-siber-guvenlik-temelleri/
+* Her Türlü Konunun ve Pentest konularının da olduğu eğitimlerin olduğu bir site: https://ders.im/kategori/pentest
+* CEH Pentest Dersleri isimli ders playlist: https://www.youtube.com/playlist?list=PL2Q2UedYW5s1jrKxaQPmAHsboQFXHDEal
+* İngilizce Pentest Ders Sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm
+* Pentest konusuna hakimlerine göre Ctf vs. siteleri:
+https://tryhackme.com/ => CTF 
+https://hackthebox.eu/ => Zafiyetli Makineler & CTF 
+https://priviahub.com/ => Zafiyetli Makineler
+https://ctflearn.com/ => Kolaydan Zora CTF Sitesi
+https://www.vulnhub.com/ => Zafiyetli Makineleri bilgisayarına kurup sızabileceğin bir site
