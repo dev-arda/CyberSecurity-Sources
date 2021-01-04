@@ -72,11 +72,9 @@ https://priviahub.com/ => Zafiyetli Makineler
 https://ctflearn.com/ => Kolaydan Zora CTF Sitesi
 
 https://www.vulnhub.com/ => Zafiyetli Makineleri bilgisayarına kurup sızabileceğin bir site
-
 </details>
 
 <detail> 
-
 <b><summary> Temel Siber Güvenlik </summary> 
  
 * Playlistler:
