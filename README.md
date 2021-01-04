@@ -61,7 +61,7 @@ https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf
 * Her Türlü Konunun ve Pentest konularının da olduğu eğitimlerin olduğu bir site: https://ders.im/kategori/pentest
 * CEH Pentest Dersleri isimli ders playlist: https://www.youtube.com/playlist?list=PL2Q2UedYW5s1jrKxaQPmAHsboQFXHDEal
 * İngilizce Pentest Ders Sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm
-* Pentest konusuna hakimlerine göre Ctf vs. siteleri:
+* Pentest konusuna hakim olanlara göre Ctf vs. siteleri:
 
 https://tryhackme.com/ => CTF 
 
@@ -94,5 +94,7 @@ https://www.youtube.com/watch?v=DQ93TxqKkWo&t=211s
 https://www.youtube.com/watch?v=lIkQowZq9cg
 
 * Udemy Eğitimleri:
+
 https://www.udemy.com/course/web-pentesting/
+
 https://www.udemy.com/course/advanced-uygulamali-ethical-hacker-ve-siber-guvenlik-egitimi/
