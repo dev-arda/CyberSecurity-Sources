@@ -4,6 +4,6 @@ Bu yazıyı siber güvenliğe meraklı olanların öğrenmesi gereken ya da mera
 ### Kaynaklar
 <details>
 
-<b><summary> Başlangıç Rehberleri </summary>
+<b><summary> Ders Kaynakları </summary>
 
  https://www.twitch.tv/lunizz/videos 
