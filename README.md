@@ -6,4 +6,4 @@ Bu yazıyı siber güvenliğe meraklı olanların öğrenmesi gereken ya da mera
 
 <b><summary> Ders Kaynakları </summary>
 
- * https://www.twitch.tv/lunizz/videos 
+ * Python Dersleri Playlist: https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
