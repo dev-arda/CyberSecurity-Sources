@@ -62,8 +62,13 @@ https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf
 * CEH Pentest Dersleri isimli ders playlist: https://www.youtube.com/playlist?list=PL2Q2UedYW5s1jrKxaQPmAHsboQFXHDEal
 * İngilizce Pentest Ders Sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm
 * Pentest konusuna hakimlerine göre Ctf vs. siteleri:
+
 https://tryhackme.com/ => CTF 
+
 https://hackthebox.eu/ => Zafiyetli Makineler & CTF 
+
 https://priviahub.com/ => Zafiyetli Makineler
+
 https://ctflearn.com/ => Kolaydan Zora CTF Sitesi
+
 https://www.vulnhub.com/ => Zafiyetli Makineleri bilgisayarına kurup sızabileceğin bir site
