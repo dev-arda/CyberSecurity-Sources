@@ -64,11 +64,7 @@ https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf
 * Pentest konusuna hakimlerine göre Ctf vs. siteleri:
 
 https://tryhackme.com/ => CTF 
-
 https://hackthebox.eu/ => Zafiyetli Makineler & CTF 
-
 https://priviahub.com/ => Zafiyetli Makineler
-
 https://ctflearn.com/ => Kolaydan Zora CTF Sitesi
-
 https://www.vulnhub.com/ => Zafiyetli Makineleri bilgisayarına kurup sızabileceğin bir site
