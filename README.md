@@ -79,7 +79,14 @@ https://www.vulnhub.com/ => Zafiyetli Makineleri bilgisayarına kurup sızabilec
  
 <b><summary> Temel Siber Güvenlik </summary> 
  
-* Playlistler:
+* YouTube Kaynakları:
 
 https://www.youtube.com/watch?v=Hml8OAO0RY8&list=PLGWmuqrfJZRtsnlik14O9JscT4cuDKwJy
-https://www.youtube.com/watch?v=Hml8OAO0RY8&list=PLGWmuqrfJZRtsnlik14O9JscT4cuDKwJy
+https://www.youtube.com/watch?v=VHJT28wNz4w&list=PLXU1gWXx72mbfz4NZFvQ16f3IPm-r1ipT
+https://www.youtube.com/watch?v=qbaBr8rXwaE
+https://www.youtube.com/watch?v=USzr1fOSbQI&t=169s
+https://www.youtube.com/watch?v=DQ93TxqKkWo&t=211s
+https://www.youtube.com/watch?v=lIkQowZq9cg
+
+* Udemy Eğitimleri:
+
