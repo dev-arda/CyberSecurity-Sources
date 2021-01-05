@@ -118,4 +118,4 @@ TelNet: https://tr.wikipedia.org/wiki/Telnet
 POP: https://en.wikipedia.org/wiki/Post_Office_Protocol
 Her Türlü İnternet: https://tr.wikipedia.org/wiki/Kategori:%C4%B0nternet_protokolleri
 
-<details>
+</details>
