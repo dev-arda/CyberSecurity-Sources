@@ -98,3 +98,24 @@ https://www.youtube.com/watch?v=lIkQowZq9cg
 https://www.udemy.com/course/web-pentesting/
 
 https://www.udemy.com/course/advanced-uygulamali-ethical-hacker-ve-siber-guvenlik-egitimi/
+
+<details>
+ 
+<b><summary> Ağ Güvenliği </summary> 
+  
+ * Temel Network Kaynakları:
+ 
+*http://www.merihelektrik.com.tr/katalog/13.pdf*
+
+***Temel ve Önemli Internet Protokolleri***
+UDP: https://tr.wikipedia.org/wiki/UDP
+SMTP: https://tr.wikipedia.org/wiki/SMTP
+FTP: https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1
+ARP: https://tr.wikipedia.org/wiki/Adres_%C3%87%C3%B6z%C3%BCmleme_Protokol%C3%BC
+LDAP: https://tr.wikipedia.org/wiki/LDAP
+SSH: https://tr.wikipedia.org/wiki/G%C3%BCvenli_kabuk
+TelNet: https://tr.wikipedia.org/wiki/Telnet
+POP: https://en.wikipedia.org/wiki/Post_Office_Protocol
+Her Türlü İnternet: https://tr.wikipedia.org/wiki/Kategori:%C4%B0nternet_protokolleri
+
+<details>
