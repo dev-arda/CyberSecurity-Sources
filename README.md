@@ -99,6 +99,8 @@ https://www.udemy.com/course/web-pentesting/
 
 https://www.udemy.com/course/advanced-uygulamali-ethical-hacker-ve-siber-guvenlik-egitimi/
 
+</details>
+
 <details>
  
 <b><summary> Ağ Güvenliği </summary> 
