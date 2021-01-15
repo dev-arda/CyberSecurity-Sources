@@ -2,7 +2,7 @@
 Herkese Merhabalar, Ben Arda.
 Bu yazıyı siber güvenliğe meraklı olanların öğrenmesi gereken ya da merak ettiklerinin kaynağını hızlıca bulması için hazırladım.
 
-- Discord: [![Discord](https://yt3.ggpht.com/ytc/AAUvwngytTGNxTh-n4C6TLomue6cb2bYni4XMnzG1m0mOA=s88-c-k-c0x00ffffff-no-rj)(https://discord.gg/GAcSFxan2F)
+- Discord:https://discord.gg/GAcSFxan2F
 
 ### Kaynaklar
 <details>
